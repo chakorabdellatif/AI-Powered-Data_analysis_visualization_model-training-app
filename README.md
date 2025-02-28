@@ -3,7 +3,12 @@
 An intelligent web application that combines AI-powered data analysis with automated machine learning capabilities. Built with Streamlit and powered by Together AI's LLM.
 
 ## 🛠️ Workflow
-    [![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=SyeYVgbQGxA&ab_channel=dre))
+Watch a quick demo of the app in action:
+
+[![Demo Video](https://img.youtube.com/vi/SyeYVgbQGxA/0.jpg)](https://www.youtube.com/watch?v=SyeYVgbQGxA) 
+
+*Click the thumbnail to play the video*
+    
 
     Data Upload (CSV/Excel)
 
